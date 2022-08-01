@@ -173,5 +173,5 @@ func main() {
 	// go stingySeven()
 
 	time.Sleep(3000 * time.Millisecond)
-	print("total money : ", money)
+	print("total money : ", money, "\n")
 }
